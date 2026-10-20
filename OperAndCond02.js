@@ -76,3 +76,56 @@
 
 // Conditional Statements
 
+// let age = 14;
+
+// if(age>18){
+//   console.log("You can Vote")
+// }
+// else{
+//   console.log("You cannot Vote")
+// }
+
+
+
+// Ternary operator
+
+// let marks = 40;
+// marks>33?console.log("pass"):console.log("fail")
+
+
+
+
+// Q1 
+// let age = 13;
+// if(age>10 && age<20){
+//   console.log("Yes")
+// }
+// else{
+//   console.log("No")
+// }
+
+
+
+
+// Q2
+
+// let age = 20;
+
+// switch(age){
+//   case 1 : console.log("You are a Child")
+//   break
+//   case 2 : console.log("You are a adult")
+//   break
+//   default: console.log("Invalid Case")
+// }
+
+
+// Q3
+
+n = 9
+if(n%2==0 && n%3==0){
+  console.log("Yes it is divisible by 2 and 3")
+}
+else{
+  console.log("No it is not divisible by 2 and 3")
+}
